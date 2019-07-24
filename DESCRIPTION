@@ -1,0 +1,10 @@
+Package: LassoPS
+Type: Package
+Title: Generate matched cohort using a lasso propensity method
+Version: 0.001
+Date: 2014-05-31
+Author: Adam J Batten
+Maintainer: Adam J Batten <mrbatten@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+Imports: glmnet, ROCR
